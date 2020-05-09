@@ -1,2 +1,1 @@
-Introduction - Copying style of Google homepage
-Skills demonstrated - Use of Dev Tools, Git and GitHub, Basic CSS and HTML
+The goal here was to copy the general style (not functionality) of the Google homepage. It's an exercise intended to demonstrate basic knowledge of HTML, CSS, and browser development tools.
